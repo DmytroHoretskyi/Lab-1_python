@@ -5,7 +5,7 @@ if __name__ == "__main__":
     secondCycle = Cycle(24, 20, 100, "Desna",  14, "blue",)
     thirdCycle = Cycle(16, 60, 220, "Ukraina")
 
-    print("first cycle: ", firstCycle.__str__())
-    print("second cycle: ", secondCycle.__str__())
-    print("thidr cycle: ", thirdCycle.__str__())
+    print("first cycle: ", firstCycle)
+    print("second cycle: ", secondCycle)
+    print("thidr cycle: ", thirdCycle)
 
