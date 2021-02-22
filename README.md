@@ -17,6 +17,6 @@ Create a class "Bicycle" which contains fields:
 
 To run:
 
-Clone/Download repo
-Go into repo folder
-Type python main.py
+- Clone/Download repo
+- Go into repo folder
+- Type python main.py
